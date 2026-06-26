@@ -10,6 +10,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
+| [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
+| [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,4 +45,12 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
