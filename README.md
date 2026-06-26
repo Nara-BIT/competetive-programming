@@ -14,8 +14,25 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
+| [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
+## Array
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
