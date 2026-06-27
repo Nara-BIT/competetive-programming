@@ -14,6 +14,7 @@ build logic->solve problem->repeat
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 ## Breadth-First Search
@@ -53,4 +54,12 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
