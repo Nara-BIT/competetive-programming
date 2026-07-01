@@ -29,6 +29,7 @@ build logic->solve problem->repeat
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
@@ -69,6 +70,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0518-coin-change-ii) |
 ## Sliding Window
@@ -76,4 +78,8 @@ build logic->solve problem->repeat
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nara-BIT/competetive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0076-minimum-window-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
