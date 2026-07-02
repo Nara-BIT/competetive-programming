@@ -32,6 +32,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Nara-BIT/competetive-programming/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
@@ -42,6 +43,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nara-BIT/competetive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Nara-BIT/competetive-programming/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
@@ -94,4 +96,8 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nara-BIT/competetive-programming/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
