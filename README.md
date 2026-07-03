@@ -14,6 +14,7 @@ build logic->solve problem->repeat
 | [0076-minimum-window-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ build logic->solve problem->repeat
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nara-BIT/competetive-programming/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -119,4 +121,8 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0047-permutations-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
