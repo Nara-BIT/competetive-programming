@@ -30,6 +30,7 @@ build logic->solve problem->repeat
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
+| [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ build logic->solve problem->repeat
 | [0503-next-greater-element-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0560-subarray-sum-equals-k) |
+| [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nara-BIT/competetive-programming/tree/master/0907-sum-of-subarray-minimums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2104-sum-of-subarray-ranges](https://github.com/Nara-BIT/competetive-programming/tree/master/2104-sum-of-subarray-ranges) |
@@ -73,6 +75,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
+| [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
 ## Linked List
 |  |
 | ------- |
@@ -139,6 +142,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
+| [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -147,4 +151,8 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
