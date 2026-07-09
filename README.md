@@ -47,6 +47,7 @@ build logic->solve problem->repeat
 | [0084-largest-rectangle-in-histogram](https://github.com/Nara-BIT/competetive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/Nara-BIT/competetive-programming/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Nara-BIT/competetive-programming/tree/master/0135-candy) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
@@ -182,6 +183,7 @@ build logic->solve problem->repeat
 | [0045-jump-game-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nara-BIT/competetive-programming/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Nara-BIT/competetive-programming/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
