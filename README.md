@@ -37,6 +37,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0039-combination-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Nara-BIT/competetive-programming/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nara-BIT/competetive-programming/tree/master/0051-n-queens) |
@@ -117,6 +118,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/0072-edit-distance) |
@@ -177,6 +179,7 @@ build logic->solve problem->repeat
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nara-BIT/competetive-programming/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
