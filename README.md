@@ -44,6 +44,7 @@ build logic->solve problem->repeat
 | [0078-subsets](https://github.com/Nara-BIT/competetive-programming/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nara-BIT/competetive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0090-subsets-ii) |
+| [0134-gas-station](https://github.com/Nara-BIT/competetive-programming/tree/master/0134-gas-station) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
@@ -167,4 +168,8 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Nara-BIT/competetive-programming/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
