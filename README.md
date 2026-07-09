@@ -53,6 +53,7 @@ build logic->solve problem->repeat
 | [0518-coin-change-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nara-BIT/competetive-programming/tree/master/0907-sum-of-subarray-minimums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -176,4 +177,5 @@ build logic->solve problem->repeat
 | ------- |
 | [0134-gas-station](https://github.com/Nara-BIT/competetive-programming/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
