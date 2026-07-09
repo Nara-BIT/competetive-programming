@@ -41,6 +41,7 @@ build logic->solve problem->repeat
 | [0047-permutations-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nara-BIT/competetive-programming/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Nara-BIT/competetive-programming/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nara-BIT/competetive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0090-subsets-ii) |
@@ -117,6 +118,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0518-coin-change-ii) |
@@ -175,6 +177,7 @@ build logic->solve problem->repeat
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nara-BIT/competetive-programming/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0860-lemonade-change) |
