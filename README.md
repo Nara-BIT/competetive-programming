@@ -15,6 +15,7 @@ build logic->solve problem->repeat
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ build logic->solve problem->repeat
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
 | [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -151,6 +153,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0047-permutations-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0047-permutations-ii) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Prefix Sum
 |  |
@@ -166,6 +169,7 @@ build logic->solve problem->repeat
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0543-diameter-of-binary-tree) |
 | [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -204,6 +208,7 @@ build logic->solve problem->repeat
 | [0110-balanced-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -213,4 +218,5 @@ build logic->solve problem->repeat
 | [0110-balanced-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
