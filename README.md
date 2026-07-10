@@ -159,6 +159,7 @@ build logic->solve problem->repeat
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0110-balanced-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0543-diameter-of-binary-tree) |
 | [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
 ## Graph Theory
 |  |
@@ -194,9 +195,11 @@ build logic->solve problem->repeat
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
