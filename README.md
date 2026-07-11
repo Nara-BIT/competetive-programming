@@ -97,6 +97,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nara-BIT/competetive-programming/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -107,6 +108,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nara-BIT/competetive-programming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nara-BIT/competetive-programming/tree/master/0907-sum-of-subarray-minimums) |
@@ -171,6 +173,7 @@ build logic->solve problem->repeat
 | [0101-symmetric-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Nara-BIT/competetive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
@@ -216,6 +219,7 @@ build logic->solve problem->repeat
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nara-BIT/competetive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Nara-BIT/competetive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Nara-BIT/competetive-programming/tree/master/0222-count-complete-tree-nodes) |
@@ -231,6 +235,7 @@ build logic->solve problem->repeat
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nara-BIT/competetive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Nara-BIT/competetive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Nara-BIT/competetive-programming/tree/master/0222-count-complete-tree-nodes) |
