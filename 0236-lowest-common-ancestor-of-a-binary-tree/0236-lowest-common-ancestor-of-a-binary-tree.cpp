@@ -13,14 +13,12 @@ public:
         if(root==NULL || root==p || root==q){
             return root;
         }
-        TreeNode* lt=ancestor(root->left,p,q);
-        TreeNode* rt=ancestor(root->right,p,q);
-
-        if(lt==NULL)
-            return rt;
-        else if(rt==NULL)
-            return lt;
-        
+        TreeNode* left=ancestor(root->left,p,q);
+        TreeNode* right=ancestor(root->right,p,q);
+        if(left==NULL)
+            return right;
+        if(right==NULL)
+            return left;
         return root;
         //return NULL;
     }
