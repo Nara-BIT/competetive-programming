@@ -107,6 +107,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nara-BIT/competetive-programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +160,7 @@ build logic->solve problem->repeat
 | [0078-subsets](https://github.com/Nara-BIT/competetive-programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Nara-BIT/competetive-programming/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +207,7 @@ build logic->solve problem->repeat
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
