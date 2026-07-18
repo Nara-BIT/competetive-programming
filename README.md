@@ -163,6 +163,7 @@ build logic->solve problem->repeat
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nara-BIT/competetive-programming/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Nara-BIT/competetive-programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/0191-number-of-1-bits) |
@@ -216,6 +217,7 @@ build logic->solve problem->repeat
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nara-BIT/competetive-programming/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
