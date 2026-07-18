@@ -159,11 +159,13 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nara-BIT/competetive-programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Nara-BIT/competetive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
