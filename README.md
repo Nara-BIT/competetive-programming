@@ -169,6 +169,7 @@ build logic->solve problem->repeat
 | [0222-count-complete-tree-nodes](https://github.com/Nara-BIT/competetive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Nara-BIT/competetive-programming/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
