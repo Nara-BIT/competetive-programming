@@ -286,4 +286,8 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Nara-BIT/competetive-programming/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
