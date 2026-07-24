@@ -72,6 +72,7 @@ build logic->solve problem->repeat
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nara-BIT/competetive-programming/tree/master/0907-sum-of-subarray-minimums) |
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
@@ -172,6 +173,7 @@ build logic->solve problem->repeat
 | [0222-count-complete-tree-nodes](https://github.com/Nara-BIT/competetive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Nara-BIT/competetive-programming/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
@@ -180,6 +182,7 @@ build logic->solve problem->repeat
 | [0047-permutations-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0047-permutations-ii) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Prefix Sum
 |  |
@@ -306,4 +309,8 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
