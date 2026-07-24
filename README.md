@@ -76,6 +76,7 @@ build logic->solve problem->repeat
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [2104-sum-of-subarray-ranges](https://github.com/Nara-BIT/competetive-programming/tree/master/2104-sum-of-subarray-ranges) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nara-BIT/competetive-programming/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Backtracking
 |  |
@@ -172,6 +173,7 @@ build logic->solve problem->repeat
 | [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Nara-BIT/competetive-programming/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +224,7 @@ build logic->solve problem->repeat
 | [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -299,4 +302,8 @@ build logic->solve problem->repeat
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Nara-BIT/competetive-programming/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Nara-BIT/competetive-programming/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Nara-BIT/competetive-programming/tree/master/1661-average-time-of-process-per-machine) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
