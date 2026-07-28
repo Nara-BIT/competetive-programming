@@ -73,6 +73,7 @@ build logic->solve problem->repeat
 | [0503-next-greater-element-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nara-BIT/competetive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
@@ -193,6 +194,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0047-permutations-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0047-permutations-ii) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nara-BIT/competetive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nara-BIT/competetive-programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -243,6 +245,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nara-BIT/competetive-programming/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nara-BIT/competetive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
