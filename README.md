@@ -32,6 +32,7 @@ build logic->solve problem->repeat
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nara-BIT/competetive-programming/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## Breadth-First Search
 |  |
@@ -193,6 +194,7 @@ build logic->solve problem->repeat
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nara-BIT/competetive-programming/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
@@ -328,4 +330,8 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
