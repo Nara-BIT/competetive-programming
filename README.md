@@ -20,6 +20,7 @@ build logic->solve problem->repeat
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nara-BIT/competetive-programming/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## String
 |  |
@@ -33,6 +34,7 @@ build logic->solve problem->repeat
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Nara-BIT/competetive-programming/tree/master/0214-shortest-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nara-BIT/competetive-programming/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## Breadth-First Search
@@ -201,6 +203,7 @@ build logic->solve problem->repeat
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nara-BIT/competetive-programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nara-BIT/competetive-programming/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
@@ -266,6 +269,7 @@ build logic->solve problem->repeat
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0860-lemonade-change) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -340,6 +344,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |
