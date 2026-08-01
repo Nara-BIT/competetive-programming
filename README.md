@@ -74,6 +74,7 @@ build logic->solve problem->repeat
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Nara-BIT/competetive-programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0518-coin-change-ii) |
@@ -135,6 +136,7 @@ build logic->solve problem->repeat
 | [0025-reverse-nodes-in-k-group](https://github.com/Nara-BIT/competetive-programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Nara-BIT/competetive-programming/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +169,7 @@ build logic->solve problem->repeat
 | [0072-edit-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/Nara-BIT/competetive-programming/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nara-BIT/competetive-programming/tree/master/0907-sum-of-subarray-minimums) |
@@ -257,6 +260,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nara-BIT/competetive-programming/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Nara-BIT/competetive-programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nara-BIT/competetive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
@@ -267,6 +271,7 @@ build logic->solve problem->repeat
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Nara-BIT/competetive-programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
 ## Greedy
 |  |
