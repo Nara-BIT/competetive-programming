@@ -142,6 +142,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nara-BIT/competetive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/Nara-BIT/competetive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nara-BIT/competetive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0503-next-greater-element-ii) |
@@ -389,9 +390,11 @@ build logic->solve problem->repeat
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nara-BIT/competetive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nara-BIT/competetive-programming/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nara-BIT/competetive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nara-BIT/competetive-programming/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
