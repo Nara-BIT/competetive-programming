@@ -347,6 +347,7 @@ build logic->solve problem->repeat
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/Nara-BIT/competetive-programming/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Nara-BIT/competetive-programming/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Nara-BIT/competetive-programming/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Nara-BIT/competetive-programming/tree/master/0577-employee-bonus) |
