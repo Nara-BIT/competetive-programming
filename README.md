@@ -59,6 +59,7 @@ build logic->solve problem->repeat
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nara-BIT/competetive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0045-jump-game-ii) |
@@ -190,6 +191,7 @@ build logic->solve problem->repeat
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nara-BIT/competetive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -328,6 +330,7 @@ build logic->solve problem->repeat
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nara-BIT/competetive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Nara-BIT/competetive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
