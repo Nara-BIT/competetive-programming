@@ -23,6 +23,7 @@ build logic->solve problem->repeat
 | [1512-number-of-good-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nara-BIT/competetive-programming/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nara-BIT/competetive-programming/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## String
@@ -99,6 +100,7 @@ build logic->solve problem->repeat
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nara-BIT/competetive-programming/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2104-sum-of-subarray-ranges](https://github.com/Nara-BIT/competetive-programming/tree/master/2104-sum-of-subarray-ranges) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nara-BIT/competetive-programming/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -217,6 +219,7 @@ build logic->solve problem->repeat
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nara-BIT/competetive-programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nara-BIT/competetive-programming/tree/master/3536-maximum-product-of-two-digits) |
