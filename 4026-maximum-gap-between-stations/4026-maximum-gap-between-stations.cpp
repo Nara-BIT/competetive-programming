@@ -9,9 +9,9 @@ public:
         vector<int>left_pos(n);
         vector<int>right_pos(n);
         int worker_idx=0;
-        for(int j=0;j<m && worker_idx<n ;j++){
-            if(skill[worker_idx]==station[j]){
-                left_pos[worker_idx]=j;
+        for(int i=0;i<m && worker_idx<n;i++){
+            if(skill[worker_idx]==station[i]){
+                left_pos[worker_idx]=i;
                 worker_idx++;
             }
         }
@@ -25,11 +25,8 @@ public:
         int max_gap=0;
         for(int i=1;i<n;i++){
             int curr_gap=right_pos[i]-left_pos[i-1];
-            max_gap=max(max_gap,curr_gap);
+            max_gap=max(curr_gap,max_gap);
         }
         return max_gap;
-
-        
-        
     }
 };
