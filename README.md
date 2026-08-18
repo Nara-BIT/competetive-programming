@@ -280,6 +280,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nara-BIT/competetive-programming/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
+| [0400-nth-digit](https://github.com/Nara-BIT/competetive-programming/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/Nara-BIT/competetive-programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nara-BIT/competetive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
@@ -346,6 +347,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nara-BIT/competetive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Nara-BIT/competetive-programming/tree/master/0222-count-complete-tree-nodes) |
+| [0400-nth-digit](https://github.com/Nara-BIT/competetive-programming/tree/master/0400-nth-digit) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nara-BIT/competetive-programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
