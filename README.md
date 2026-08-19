@@ -20,6 +20,7 @@ build logic->solve problem->repeat
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Nara-BIT/competetive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nara-BIT/competetive-programming/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -97,6 +98,7 @@ build logic->solve problem->repeat
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1014-best-sightseeing-pair](https://github.com/Nara-BIT/competetive-programming/tree/master/1014-best-sightseeing-pair) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Nara-BIT/competetive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nara-BIT/competetive-programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/1512-number-of-good-pairs) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -218,6 +220,7 @@ build logic->solve problem->repeat
 | [0231-power-of-two](https://github.com/Nara-BIT/competetive-programming/tree/master/0231-power-of-two) |
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Nara-BIT/competetive-programming/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Nara-BIT/competetive-programming/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
@@ -304,6 +307,7 @@ build logic->solve problem->repeat
 | [0135-candy](https://github.com/Nara-BIT/competetive-programming/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0860-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/Nara-BIT/competetive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
