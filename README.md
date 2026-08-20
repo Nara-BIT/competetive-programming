@@ -110,6 +110,7 @@ build logic->solve problem->repeat
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nara-BIT/competetive-programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nara-BIT/competetive-programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nara-BIT/competetive-programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
@@ -428,4 +429,8 @@ build logic->solve problem->repeat
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nara-BIT/competetive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nara-BIT/competetive-programming/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
