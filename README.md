@@ -115,6 +115,7 @@ build logic->solve problem->repeat
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nara-BIT/competetive-programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Nara-BIT/competetive-programming/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nara-BIT/competetive-programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
@@ -200,6 +201,7 @@ build logic->solve problem->repeat
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Nara-BIT/competetive-programming/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
 ## Sliding Window
 |  |
