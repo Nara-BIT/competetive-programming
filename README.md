@@ -64,6 +64,7 @@ build logic->solve problem->repeat
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
 ## Array
 |  |
 | ------- |
@@ -274,15 +275,18 @@ build logic->solve problem->repeat
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -445,4 +449,12 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
