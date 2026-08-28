@@ -78,6 +78,7 @@ build logic->solve problem->repeat
 | [0051-n-queens](https://github.com/Nara-BIT/competetive-programming/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Nara-BIT/competetive-programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nara-BIT/competetive-programming/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nara-BIT/competetive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0090-subsets-ii) |
@@ -183,6 +184,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/Nara-BIT/competetive-programming/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nara-BIT/competetive-programming/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -239,6 +241,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Nara-BIT/competetive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nara-BIT/competetive-programming/tree/master/0628-maximum-product-of-three-numbers) |
@@ -466,4 +469,12 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nara-BIT/competetive-programming/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nara-BIT/competetive-programming/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
