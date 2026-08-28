@@ -13,6 +13,7 @@ build logic->solve problem->repeat
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nara-BIT/competetive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Nara-BIT/competetive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0560-subarray-sum-equals-k) |
@@ -82,6 +83,7 @@ build logic->solve problem->repeat
 | [0090-subsets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/Nara-BIT/competetive-programming/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Nara-BIT/competetive-programming/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Nara-BIT/competetive-programming/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
@@ -217,6 +219,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nara-BIT/competetive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -236,6 +239,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nara-BIT/competetive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nara-BIT/competetive-programming/tree/master/0977-squares-of-a-sorted-array) |
@@ -410,6 +414,7 @@ build logic->solve problem->repeat
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nara-BIT/competetive-programming/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -457,4 +462,8 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
