@@ -18,7 +18,6 @@ public:
             return 1;
         }
         int ans=0,lt,rt,lrt;
-        //left,right,left & right
         lt=max(j+1,i+1);
         rt=max(n-i,n-j);
         lrt=min(i+1+n-j,j+1+n-i);
