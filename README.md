@@ -160,6 +160,7 @@ build logic->solve problem->repeat
 | [0025-reverse-nodes-in-k-group](https://github.com/Nara-BIT/competetive-programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0206-reverse-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nara-BIT/competetive-programming/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
