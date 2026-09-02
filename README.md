@@ -129,6 +129,7 @@ build logic->solve problem->repeat
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nara-BIT/competetive-programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3875-construct-uniform-parity-array-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nara-BIT/competetive-programming/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Backtracking
 |  |
@@ -330,6 +331,7 @@ build logic->solve problem->repeat
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nara-BIT/competetive-programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nara-BIT/competetive-programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3875-construct-uniform-parity-array-i) |
 ## Game Theory
 |  |
 | ------- |
