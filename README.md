@@ -27,6 +27,7 @@ build logic->solve problem->repeat
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nara-BIT/competetive-programming/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2374-node-with-highest-edge-score](https://github.com/Nara-BIT/competetive-programming/tree/master/2374-node-with-highest-edge-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nara-BIT/competetive-programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -302,6 +303,7 @@ build logic->solve problem->repeat
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2076-process-restricted-friend-requests](https://github.com/Nara-BIT/competetive-programming/tree/master/2076-process-restricted-friend-requests) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
+| [2374-node-with-highest-edge-score](https://github.com/Nara-BIT/competetive-programming/tree/master/2374-node-with-highest-edge-score) |
 ## Topological Sort
 |  |
 | ------- |
