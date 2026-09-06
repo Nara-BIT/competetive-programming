@@ -42,6 +42,7 @@ build logic->solve problem->repeat
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nara-BIT/competetive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Nara-BIT/competetive-programming/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Nara-BIT/competetive-programming/tree/master/0214-shortest-palindrome) |
@@ -208,6 +209,7 @@ build logic->solve problem->repeat
 | [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Nara-BIT/competetive-programming/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Nara-BIT/competetive-programming/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
