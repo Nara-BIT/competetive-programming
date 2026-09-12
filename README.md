@@ -26,6 +26,7 @@ build logic->solve problem->repeat
 | [1386-cinema-seat-allocation](https://github.com/Nara-BIT/competetive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nara-BIT/competetive-programming/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2374-node-with-highest-edge-score](https://github.com/Nara-BIT/competetive-programming/tree/master/2374-node-with-highest-edge-score) |
@@ -51,6 +52,7 @@ build logic->solve problem->repeat
 | [0940-distinct-subsequences-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0940-distinct-subsequences-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/Nara-BIT/competetive-programming/tree/master/1202-smallest-string-with-swaps) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nara-BIT/competetive-programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -230,6 +232,7 @@ build logic->solve problem->repeat
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Nara-BIT/competetive-programming/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
@@ -323,6 +326,7 @@ build logic->solve problem->repeat
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Nara-BIT/competetive-programming/tree/master/0785-is-graph-bipartite) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/Nara-BIT/competetive-programming/tree/master/2076-process-restricted-friend-requests) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/Nara-BIT/competetive-programming/tree/master/2374-node-with-highest-edge-score) |
@@ -330,6 +334,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
 ## Union-Find
 |  |
@@ -471,6 +476,7 @@ build logic->solve problem->repeat
 | [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/1512-number-of-good-pairs) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nara-BIT/competetive-programming/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
@@ -536,4 +542,12 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Nara-BIT/competetive-programming/tree/master/0785-is-graph-bipartite) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
