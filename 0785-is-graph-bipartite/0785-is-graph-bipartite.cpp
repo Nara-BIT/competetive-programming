@@ -4,7 +4,8 @@ public:
         color[node] = col; 
         for(auto it : adj[node]) {
             if(color[it] == -1) {
-                if(dfs(it, !col, color, adj) == false) return false; 
+                if(dfs(it, !col, color, adj) == false) 
+                    return false; 
             }
             else if(color[it] == col) {
                 return false; 
