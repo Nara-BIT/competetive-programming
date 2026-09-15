@@ -53,6 +53,7 @@ build logic->solve problem->repeat
 | [1202-smallest-string-with-swaps](https://github.com/Nara-BIT/competetive-programming/tree/master/1202-smallest-string-with-swaps) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nara-BIT/competetive-programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nara-BIT/competetive-programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -213,6 +214,7 @@ build logic->solve problem->repeat
 | [0075-sort-colors](https://github.com/Nara-BIT/competetive-programming/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nara-BIT/competetive-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nara-BIT/competetive-programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +237,7 @@ build logic->solve problem->repeat
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nara-BIT/competetive-programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Nara-BIT/competetive-programming/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
@@ -385,6 +388,7 @@ build logic->solve problem->repeat
 | [1386-cinema-seat-allocation](https://github.com/Nara-BIT/competetive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nara-BIT/competetive-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nara-BIT/competetive-programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
