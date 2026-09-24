@@ -146,6 +146,7 @@ build logic->solve problem->repeat
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nara-BIT/competetive-programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nara-BIT/competetive-programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nara-BIT/competetive-programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -380,6 +381,7 @@ build logic->solve problem->repeat
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nara-BIT/competetive-programming/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nara-BIT/competetive-programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nara-BIT/competetive-programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Nara-BIT/competetive-programming/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3871-count-commas-in-range-ii) |
