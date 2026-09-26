@@ -14,6 +14,7 @@ build logic->solve problem->repeat
 | [0073-set-matrix-zeroes](https://github.com/Nara-BIT/competetive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Nara-BIT/competetive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Nara-BIT/competetive-programming/tree/master/0525-contiguous-array) |
@@ -98,6 +99,7 @@ build logic->solve problem->repeat
 | [0078-subsets](https://github.com/Nara-BIT/competetive-programming/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nara-BIT/competetive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Nara-BIT/competetive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Nara-BIT/competetive-programming/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Nara-BIT/competetive-programming/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
@@ -357,6 +359,7 @@ build logic->solve problem->repeat
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Nara-BIT/competetive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/Nara-BIT/competetive-programming/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
 | [1202-smallest-string-with-swaps](https://github.com/Nara-BIT/competetive-programming/tree/master/1202-smallest-string-with-swaps) |
