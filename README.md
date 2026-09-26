@@ -61,6 +61,7 @@ build logic->solve problem->repeat
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nara-BIT/competetive-programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nara-BIT/competetive-programming/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nara-BIT/competetive-programming/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## Breadth-First Search
 |  |
@@ -252,6 +253,7 @@ build logic->solve problem->repeat
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Nara-BIT/competetive-programming/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nara-BIT/competetive-programming/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Sliding Window
 |  |
 | ------- |
@@ -313,6 +315,7 @@ build logic->solve problem->repeat
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nara-BIT/competetive-programming/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nara-BIT/competetive-programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nara-BIT/competetive-programming/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nara-BIT/competetive-programming/tree/master/3900-longest-balanced-substring-after-one-swap) |
 | [3903-smallest-stable-index-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3904-smallest-stable-index-ii) |
@@ -411,6 +414,7 @@ build logic->solve problem->repeat
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nara-BIT/competetive-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nara-BIT/competetive-programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nara-BIT/competetive-programming/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Tree
 |  |
 | ------- |
