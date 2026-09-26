@@ -40,6 +40,7 @@ build logic->solve problem->repeat
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nara-BIT/competetive-programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nara-BIT/competetive-programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nara-BIT/competetive-programming/tree/master/3483-unique-3-digit-even-numbers) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nara-BIT/competetive-programming/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## String
 |  |
@@ -154,6 +155,7 @@ build logic->solve problem->repeat
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nara-BIT/competetive-programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3903-smallest-stable-index-i) |
@@ -319,6 +321,7 @@ build logic->solve problem->repeat
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nara-BIT/competetive-programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nara-BIT/competetive-programming/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nara-BIT/competetive-programming/tree/master/3900-longest-balanced-substring-after-one-swap) |
 | [3903-smallest-stable-index-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3904-smallest-stable-index-ii) |
