@@ -55,6 +55,7 @@ build logic->solve problem->repeat
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Nara-BIT/competetive-programming/tree/master/0214-shortest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/Nara-BIT/competetive-programming/tree/master/1202-smallest-string-with-swaps) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nara-BIT/competetive-programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -212,6 +213,7 @@ build logic->solve problem->repeat
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nara-BIT/competetive-programming/tree/master/0907-sum-of-subarray-minimums) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Nara-BIT/competetive-programming/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -598,4 +600,8 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nara-BIT/competetive-programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
