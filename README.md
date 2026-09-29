@@ -618,5 +618,6 @@ build logic->solve problem->repeat
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Nara-BIT/competetive-programming/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
