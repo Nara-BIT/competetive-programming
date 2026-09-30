@@ -115,6 +115,7 @@ build logic->solve problem->repeat
 | [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Nara-BIT/competetive-programming/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
+| [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
@@ -288,6 +289,7 @@ build logic->solve problem->repeat
 | [0053-maximum-subarray](https://github.com/Nara-BIT/competetive-programming/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/0191-number-of-1-bits) |
+| [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -308,6 +310,7 @@ build logic->solve problem->repeat
 | [0047-permutations-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Nara-BIT/competetive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
 | [0435-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nara-BIT/competetive-programming/tree/master/0628-maximum-product-of-three-numbers) |
@@ -491,6 +494,7 @@ build logic->solve problem->repeat
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nara-BIT/competetive-programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Nara-BIT/competetive-programming/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -623,4 +627,20 @@ build logic->solve problem->repeat
 | ------- |
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Nara-BIT/competetive-programming/tree/master/0752-open-the-lock) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
