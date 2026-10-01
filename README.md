@@ -49,6 +49,7 @@ build logic->solve problem->repeat
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nara-BIT/competetive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nara-BIT/competetive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Nara-BIT/competetive-programming/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Nara-BIT/competetive-programming/tree/master/0115-distinct-subsequences) |
@@ -215,6 +216,7 @@ build logic->solve problem->repeat
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nara-BIT/competetive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nara-BIT/competetive-programming/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/Nara-BIT/competetive-programming/tree/master/0225-implement-stack-using-queues) |
@@ -618,6 +620,7 @@ build logic->solve problem->repeat
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nara-BIT/competetive-programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
