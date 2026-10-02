@@ -121,6 +121,7 @@ build logic->solve problem->repeat
 | [0435-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Nara-BIT/competetive-programming/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0518-coin-change-ii) |
@@ -292,6 +293,7 @@ build logic->solve problem->repeat
 | [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -484,6 +486,7 @@ build logic->solve problem->repeat
 | [0004-median-of-two-sorted-arrays](https://github.com/Nara-BIT/competetive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Nara-BIT/competetive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [0400-nth-digit](https://github.com/Nara-BIT/competetive-programming/tree/master/0400-nth-digit) |
+| [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -634,10 +637,12 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 ## Sweep Line
 |  |
 | ------- |
@@ -646,4 +651,13 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+| [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
