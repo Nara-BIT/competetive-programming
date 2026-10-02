@@ -117,6 +117,7 @@ build logic->solve problem->repeat
 | [0198-house-robber](https://github.com/Nara-BIT/competetive-programming/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
@@ -293,6 +294,7 @@ build logic->solve problem->repeat
 | [0169-majority-element](https://github.com/Nara-BIT/competetive-programming/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
@@ -485,6 +487,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nara-BIT/competetive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Nara-BIT/competetive-programming/tree/master/0222-count-complete-tree-nodes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0400-nth-digit](https://github.com/Nara-BIT/competetive-programming/tree/master/0400-nth-digit) |
 | [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -637,11 +640,13 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 ## Sweep Line
 |  |
@@ -651,13 +656,16 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
