@@ -91,6 +91,7 @@ build logic->solve problem->repeat
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Nara-BIT/competetive-programming/tree/master/1202-smallest-string-with-swaps) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nara-BIT/competetive-programming/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
@@ -270,6 +271,7 @@ build logic->solve problem->repeat
 | [1014-best-sightseeing-pair](https://github.com/Nara-BIT/competetive-programming/tree/master/1014-best-sightseeing-pair) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nara-BIT/competetive-programming/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nara-BIT/competetive-programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -311,6 +313,7 @@ build logic->solve problem->repeat
 | [0957-prison-cells-after-n-days](https://github.com/Nara-BIT/competetive-programming/tree/master/0957-prison-cells-after-n-days) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Nara-BIT/competetive-programming/tree/master/1386-cinema-seat-allocation) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nara-BIT/competetive-programming/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Nara-BIT/competetive-programming/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
@@ -370,6 +373,7 @@ build logic->solve problem->repeat
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Nara-BIT/competetive-programming/tree/master/1202-smallest-string-with-swaps) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nara-BIT/competetive-programming/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nara-BIT/competetive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -464,6 +468,7 @@ build logic->solve problem->repeat
 | [0543-diameter-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nara-BIT/competetive-programming/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nara-BIT/competetive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -494,6 +499,7 @@ build logic->solve problem->repeat
 | [0400-nth-digit](https://github.com/Nara-BIT/competetive-programming/tree/master/0400-nth-digit) |
 | [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nara-BIT/competetive-programming/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nara-BIT/competetive-programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -571,6 +577,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nara-BIT/competetive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nara-BIT/competetive-programming/tree/master/0232-implement-queue-using-stacks) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nara-BIT/competetive-programming/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
 ## Queue
 |  |
@@ -672,4 +679,8 @@ build logic->solve problem->repeat
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Nara-BIT/competetive-programming/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
