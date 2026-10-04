@@ -57,6 +57,7 @@ build logic->solve problem->repeat
 | [0127-word-ladder](https://github.com/Nara-BIT/competetive-programming/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Nara-BIT/competetive-programming/tree/master/0214-shortest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Nara-BIT/competetive-programming/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/Nara-BIT/competetive-programming/tree/master/0752-open-the-lock) |
 | [0940-distinct-subsequences-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nara-BIT/competetive-programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -228,6 +229,7 @@ build logic->solve problem->repeat
 | [0232-implement-queue-using-stacks](https://github.com/Nara-BIT/competetive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Nara-BIT/competetive-programming/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nara-BIT/competetive-programming/tree/master/0907-sum-of-subarray-minimums) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nara-BIT/competetive-programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -265,6 +267,7 @@ build logic->solve problem->repeat
 | [0435-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Nara-BIT/competetive-programming/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Nara-BIT/competetive-programming/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Nara-BIT/competetive-programming/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nara-BIT/competetive-programming/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0940-distinct-subsequences-ii) |
@@ -442,6 +445,7 @@ build logic->solve problem->repeat
 | [0135-candy](https://github.com/Nara-BIT/competetive-programming/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Nara-BIT/competetive-programming/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Nara-BIT/competetive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nara-BIT/competetive-programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -638,6 +642,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Nara-BIT/competetive-programming/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nara-BIT/competetive-programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
