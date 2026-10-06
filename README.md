@@ -59,6 +59,7 @@ build logic->solve problem->repeat
 | [0214-shortest-palindrome](https://github.com/Nara-BIT/competetive-programming/tree/master/0214-shortest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Nara-BIT/competetive-programming/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/Nara-BIT/competetive-programming/tree/master/0752-open-the-lock) |
+| [0856-score-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nara-BIT/competetive-programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -230,6 +231,7 @@ build logic->solve problem->repeat
 | [0496-next-greater-element-i](https://github.com/Nara-BIT/competetive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Nara-BIT/competetive-programming/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nara-BIT/competetive-programming/tree/master/0907-sum-of-subarray-minimums) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nara-BIT/competetive-programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -643,6 +645,7 @@ build logic->solve problem->repeat
 | [0020-valid-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Nara-BIT/competetive-programming/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nara-BIT/competetive-programming/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
