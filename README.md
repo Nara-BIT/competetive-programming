@@ -165,6 +165,7 @@ build logic->solve problem->repeat
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nara-BIT/competetive-programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nara-BIT/competetive-programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2560-house-robber-iv](https://github.com/Nara-BIT/competetive-programming/tree/master/2560-house-robber-iv) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nara-BIT/competetive-programming/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nara-BIT/competetive-programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nara-BIT/competetive-programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -562,6 +563,7 @@ build logic->solve problem->repeat
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nara-BIT/competetive-programming/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nara-BIT/competetive-programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
