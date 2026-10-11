@@ -164,6 +164,7 @@ build logic->solve problem->repeat
 | [2104-sum-of-subarray-ranges](https://github.com/Nara-BIT/competetive-programming/tree/master/2104-sum-of-subarray-ranges) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nara-BIT/competetive-programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nara-BIT/competetive-programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nara-BIT/competetive-programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2560-house-robber-iv](https://github.com/Nara-BIT/competetive-programming/tree/master/2560-house-robber-iv) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nara-BIT/competetive-programming/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nara-BIT/competetive-programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -350,6 +351,7 @@ build logic->solve problem->repeat
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nara-BIT/competetive-programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Nara-BIT/competetive-programming/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Nara-BIT/competetive-programming/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nara-BIT/competetive-programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nara-BIT/competetive-programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -466,6 +468,7 @@ build logic->solve problem->repeat
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nara-BIT/competetive-programming/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Nara-BIT/competetive-programming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nara-BIT/competetive-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nara-BIT/competetive-programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nara-BIT/competetive-programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2560-house-robber-iv](https://github.com/Nara-BIT/competetive-programming/tree/master/2560-house-robber-iv) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -525,6 +528,7 @@ build logic->solve problem->repeat
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nara-BIT/competetive-programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nara-BIT/competetive-programming/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nara-BIT/competetive-programming/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2560-house-robber-iv](https://github.com/Nara-BIT/competetive-programming/tree/master/2560-house-robber-iv) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search Tree
@@ -538,6 +542,7 @@ build logic->solve problem->repeat
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nara-BIT/competetive-programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Nara-BIT/competetive-programming/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nara-BIT/competetive-programming/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Shortest Path
 |  |
 | ------- |
