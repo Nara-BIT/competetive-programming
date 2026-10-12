@@ -91,6 +91,7 @@ build logic->solve problem->repeat
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Nara-BIT/competetive-programming/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nara-BIT/competetive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0752-open-the-lock](https://github.com/Nara-BIT/competetive-programming/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Nara-BIT/competetive-programming/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
@@ -127,6 +128,7 @@ build logic->solve problem->repeat
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nara-BIT/competetive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Nara-BIT/competetive-programming/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Nara-BIT/competetive-programming/tree/master/0486-predict-the-winner) |
@@ -209,6 +211,7 @@ build logic->solve problem->repeat
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Nara-BIT/competetive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0212-word-search-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nara-BIT/competetive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Nara-BIT/competetive-programming/tree/master/0835-image-overlap) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
@@ -276,6 +279,7 @@ build logic->solve problem->repeat
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Nara-BIT/competetive-programming/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nara-BIT/competetive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Nara-BIT/competetive-programming/tree/master/0337-house-robber-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Nara-BIT/competetive-programming/tree/master/0486-predict-the-winner) |
@@ -385,6 +389,7 @@ build logic->solve problem->repeat
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nara-BIT/competetive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nara-BIT/competetive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Nara-BIT/competetive-programming/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0543-diameter-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Nara-BIT/competetive-programming/tree/master/0785-is-graph-bipartite) |
@@ -401,6 +406,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nara-BIT/competetive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0785-is-graph-bipartite](https://github.com/Nara-BIT/competetive-programming/tree/master/0785-is-graph-bipartite) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nara-BIT/competetive-programming/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -411,6 +417,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nara-BIT/competetive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
 ## Union-Find
@@ -648,10 +655,12 @@ build logic->solve problem->repeat
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nara-BIT/competetive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nara-BIT/competetive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Geometry
 |  |
