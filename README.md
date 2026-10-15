@@ -36,6 +36,7 @@ build logic->solve problem->repeat
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Nara-BIT/competetive-programming/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2374-node-with-highest-edge-score](https://github.com/Nara-BIT/competetive-programming/tree/master/2374-node-with-highest-edge-score) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nara-BIT/competetive-programming/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nara-BIT/competetive-programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nara-BIT/competetive-programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -171,6 +172,7 @@ build logic->solve problem->repeat
 | [2560-house-robber-iv](https://github.com/Nara-BIT/competetive-programming/tree/master/2560-house-robber-iv) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nara-BIT/competetive-programming/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nara-BIT/competetive-programming/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nara-BIT/competetive-programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nara-BIT/competetive-programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nara-BIT/competetive-programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -699,12 +701,14 @@ build logic->solve problem->repeat
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nara-BIT/competetive-programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Nara-BIT/competetive-programming/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nara-BIT/competetive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Nara-BIT/competetive-programming/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nara-BIT/competetive-programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sweep Line
 |  |
 | ------- |
