@@ -21,13 +21,13 @@ public:
         int swaps=0;
         vector<int>visited(n,0);
         for(i=0;i<n;i++){
-            //auto it=
+        
             if(visited[i]||chk[i].second.second==i)
                 continue;
             int temp=0;
 
             j=i;
-            
+
             while(!visited[j]){
                 visited[j]=1;
                 j=chk[j].second.second;
