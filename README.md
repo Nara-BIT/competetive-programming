@@ -80,6 +80,7 @@ build logic->solve problem->repeat
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nara-BIT/competetive-programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nara-BIT/competetive-programming/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nara-BIT/competetive-programming/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Nara-BIT/competetive-programming/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## Breadth-First Search
 |  |
