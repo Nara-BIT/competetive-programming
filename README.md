@@ -193,6 +193,7 @@ build logic->solve problem->repeat
 | [3903-smallest-stable-index-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nara-BIT/competetive-programming/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Nara-BIT/competetive-programming/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,6 +224,7 @@ build logic->solve problem->repeat
 | [0835-image-overlap](https://github.com/Nara-BIT/competetive-programming/tree/master/0835-image-overlap) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nara-BIT/competetive-programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Nara-BIT/competetive-programming/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Linked List
 |  |
 | ------- |
@@ -634,6 +636,7 @@ build logic->solve problem->repeat
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Nara-BIT/competetive-programming/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
