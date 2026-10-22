@@ -2,9 +2,11 @@ class Solution {
 public:
     bool ascend(vector<int>&nums){
         int n=nums.size();
+
         if(n<=2)
             return true;
         int breaks=0;
+
         for(int i=0;i<n;i++){
             if(nums[i]>nums[(i+1)%n]){
                 breaks++;
@@ -12,6 +14,7 @@ public:
         }
         return breaks<=1;
     }
+
     bool descend(vector<int>& nums){
         int n=nums.size();
         if(n<=2)
@@ -24,6 +27,7 @@ public:
         }
         return breaks<=1;
     }
+
     int minOperations(vector<int>& nums) {
         bool rev=true;
         bool srt=true;
@@ -37,14 +41,14 @@ public:
             }
         }
         
-        for (int i = 0; i < n; i++) {
-            int actual_val = nums[(zero_idx + i) % n];
+        for (int i=0;i<n;i++) {
+            int val=nums[(zero_idx+i)%n];
             
-            if (actual_val != i) {
-                srt = false;
+            if (val!=i) {
+                srt=false;
             }
-            if (actual_val != (n - i) % n) {
-                rev = false;
+            if (val!=(n-i)%n) {
+                rev=false;
             }
         }
         
