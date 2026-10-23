@@ -187,6 +187,7 @@ build logic->solve problem->repeat
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nara-BIT/competetive-programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nara-BIT/competetive-programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -347,6 +348,7 @@ build logic->solve problem->repeat
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Nara-BIT/competetive-programming/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nara-BIT/competetive-programming/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nara-BIT/competetive-programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
