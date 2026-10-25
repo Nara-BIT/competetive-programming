@@ -103,6 +103,7 @@ build logic->solve problem->repeat
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Nara-BIT/competetive-programming/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Nara-BIT/competetive-programming/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Nara-BIT/competetive-programming/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
@@ -155,6 +156,7 @@ build logic->solve problem->repeat
 | [0977-squares-of-a-sorted-array](https://github.com/Nara-BIT/competetive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-best-sightseeing-pair](https://github.com/Nara-BIT/competetive-programming/tree/master/1014-best-sightseeing-pair) |
 | [1202-smallest-string-with-swaps](https://github.com/Nara-BIT/competetive-programming/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Nara-BIT/competetive-programming/tree/master/1254-number-of-closed-islands) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nara-BIT/competetive-programming/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Nara-BIT/competetive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nara-BIT/competetive-programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -224,6 +226,7 @@ build logic->solve problem->repeat
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nara-BIT/competetive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Nara-BIT/competetive-programming/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Nara-BIT/competetive-programming/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nara-BIT/competetive-programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Nara-BIT/competetive-programming/tree/master/4052-cyclically-shift-rows-and-columns) |
@@ -411,6 +414,7 @@ build logic->solve problem->repeat
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Nara-BIT/competetive-programming/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Nara-BIT/competetive-programming/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Nara-BIT/competetive-programming/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
@@ -441,6 +445,7 @@ build logic->solve problem->repeat
 | [0785-is-graph-bipartite](https://github.com/Nara-BIT/competetive-programming/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Nara-BIT/competetive-programming/tree/master/0827-making-a-large-island) |
 | [1202-smallest-string-with-swaps](https://github.com/Nara-BIT/competetive-programming/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Nara-BIT/competetive-programming/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [2076-process-restricted-friend-requests](https://github.com/Nara-BIT/competetive-programming/tree/master/2076-process-restricted-friend-requests) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nara-BIT/competetive-programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
