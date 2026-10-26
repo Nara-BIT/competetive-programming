@@ -108,6 +108,7 @@ build logic->solve problem->repeat
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nara-BIT/competetive-programming/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -190,6 +191,7 @@ build logic->solve problem->repeat
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nara-BIT/competetive-programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nara-BIT/competetive-programming/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nara-BIT/competetive-programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3875-construct-uniform-parity-array-i) |
@@ -229,6 +231,7 @@ build logic->solve problem->repeat
 | [1254-number-of-closed-islands](https://github.com/Nara-BIT/competetive-programming/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nara-BIT/competetive-programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nara-BIT/competetive-programming/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Nara-BIT/competetive-programming/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Linked List
 |  |
@@ -420,6 +423,7 @@ build logic->solve problem->repeat
 | [1993-operations-on-tree](https://github.com/Nara-BIT/competetive-programming/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nara-BIT/competetive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Nara-BIT/competetive-programming/tree/master/2360-longest-cycle-in-a-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nara-BIT/competetive-programming/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -449,6 +453,7 @@ build logic->solve problem->repeat
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [2076-process-restricted-friend-requests](https://github.com/Nara-BIT/competetive-programming/tree/master/2076-process-restricted-friend-requests) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nara-BIT/competetive-programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nara-BIT/competetive-programming/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
