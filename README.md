@@ -193,6 +193,7 @@ build logic->solve problem->repeat
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nara-BIT/competetive-programming/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nara-BIT/competetive-programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Nara-BIT/competetive-programming/tree/master/3665-twisted-mirror-path-count) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -233,6 +234,7 @@ build logic->solve problem->repeat
 | [1631-path-with-minimum-effort](https://github.com/Nara-BIT/competetive-programming/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nara-BIT/competetive-programming/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nara-BIT/competetive-programming/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Nara-BIT/competetive-programming/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nara-BIT/competetive-programming/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Nara-BIT/competetive-programming/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Linked List
@@ -322,6 +324,7 @@ build logic->solve problem->repeat
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nara-BIT/competetive-programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3592-inverse-coin-change](https://github.com/Nara-BIT/competetive-programming/tree/master/3592-inverse-coin-change) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nara-BIT/competetive-programming/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3665-twisted-mirror-path-count](https://github.com/Nara-BIT/competetive-programming/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nara-BIT/competetive-programming/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
