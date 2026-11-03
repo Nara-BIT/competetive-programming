@@ -196,6 +196,7 @@ build logic->solve problem->repeat
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nara-BIT/competetive-programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Nara-BIT/competetive-programming/tree/master/3665-twisted-mirror-path-count) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nara-BIT/competetive-programming/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nara-BIT/competetive-programming/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nara-BIT/competetive-programming/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -485,6 +486,7 @@ build logic->solve problem->repeat
 | [3536-maximum-product-of-two-digits](https://github.com/Nara-BIT/competetive-programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nara-BIT/competetive-programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nara-BIT/competetive-programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nara-BIT/competetive-programming/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Nara-BIT/competetive-programming/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Nara-BIT/competetive-programming/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nara-BIT/competetive-programming/tree/master/3875-construct-uniform-parity-array-i) |
