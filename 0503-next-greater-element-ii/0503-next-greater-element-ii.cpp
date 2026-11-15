@@ -6,10 +6,12 @@ public:
         int i;
         stack<int>st;
         vector<int>NGE(n,-1);
+
         for(int i=m-1;i>=0;i--){
             while(!st.empty() && nums[i%n]>=st.top()){
                 st.pop();
             }
+            
             if(i<n){
                 NGE[i%n]=(st.empty()?-1:st.top());
             }
